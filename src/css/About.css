@@ -1,0 +1,38 @@
+
+.wel{
+  text-align: center;
+  font-family: Arial;
+  font-size: 35px;
+  padding-block: 30px;
+  color: rgb(62, 66, 75);
+}
+.us{
+  padding-top: 50px;
+  padding-left: 60px;
+  color: rgb(62, 66, 75);
+}
+.ab{
+  font-weight: bold;
+  margin-top: 5px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-left: 60px;
+  padding-right: 150px;
+  color: rgb(75, 76, 78);
+}
+.con{
+padding-top: 30px;
+padding-left: 60px;
+color: rgb(62, 66, 75);
+}
+.buttons{
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.call{
+  padding-inline: 90px;
+  padding-block: 20px;
+}
+.call1{
+  padding-inline: 85px;
+}

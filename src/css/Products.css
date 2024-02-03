@@ -1,0 +1,114 @@
+
+.heading {
+    padding: 50px 0;
+    background-color: #f9f9f9 !important;
+}
+
+.products {
+    background-color: #f9f9f9 !important;
+}
+
+.main-color {
+    color: #871F78 !important;
+}
+
+.active,
+.main-color-hover:hover {
+    color: #871F78 !important;
+}
+
+.main-bgColor {
+    background-color: #871F78;
+}
+
+.card-col {
+    height: 100%;
+}
+
+
+.card {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    color: #333333;
+    background-color: #fff;
+    border: none;
+    box-shadow: 1px 1px 16px 1px #e7e7e7;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.card .card-tags {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.card .tag {
+    display: block;
+    padding: 3px 15px;
+    font-size: 12px;
+    text-align: center;
+    color: #fff !important;
+    position: relative;
+    margin-top: 10px;
+}
+
+/* #f2904e */
+/* #8bc565 */
+
+.card .tag.best-sell {
+    background-color: #f2904e;
+}
+
+.card .tag.discount {
+    background-color: #fe5555;
+}
+
+.card .card-img {
+    width: 100% !important;
+    height: 180px;
+    position: relative;
+}
+
+.card .card-img img {
+    width: 50%;
+    max-width: 130px;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card .card-body {
+    font-size: 0.9rem;
+}
+
+.card .card-body h5 {
+    font-size: 1.2rem;
+}
+
+.card .card-body .card-icons i {
+    margin-left: 20px;
+    cursor: pointer;
+    color: #a7a7a7;
+    transition: color .3s ease-in-out
+}
+
+
+.filter-box {
+    background-color: #fff;
+    padding: 20px 25px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 16px 1px #e7e7e7;
+}
+
+.filter-box h5 {
+    font-size: medium;
+}
+
+.footer {
+    background-color: #871F78;
+    color: floralwhite;
+}
+

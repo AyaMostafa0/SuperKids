@@ -1,0 +1,17 @@
+
+.form {
+  width: 100%;
+  height: 100vh;
+  background-color: #fbfbfb !important;
+}
+
+.form h1 {
+  margin-bottom: 40px;
+}
+
+.form form{
+  padding: 15px 30px 30px 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 16px 1px #e7e7e7;
+}

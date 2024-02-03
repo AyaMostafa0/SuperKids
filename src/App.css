@@ -1,0 +1,32 @@
+*:not(i) {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+body {
+    position: relative;
+    background-color: #f9f9f9 !important;
+}
+
+section {
+    padding-top: 30px;
+    background-color: #f9f9f9 !important;
+}
+
+.main-color {
+    color: #0d6efd !important;
+}
+
+.active *,
+.main-color-hover:hover * {
+    color: #0d6efd !important;
+}
+
+footer a,
+footer i,
+footer p {
+    color: #797979 !important
+}
+
+body {
+    overflow-x: hidden;
+}

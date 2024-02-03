@@ -1,0 +1,22 @@
+.main-slide{
+    padding-block: 25px;
+}
+.carousel .slider-wrapper{
+    width: 50%;
+}
+.carousel .thumb{
+    width: 5px;
+    height: 5px;
+}
+.carousel{
+    text-align: center;
+}
+.carousel .control-prev.control-arrow {
+    left: 25%;
+}
+.carousel .control-next.control-arrow {
+    right: 25%;
+}
+.carousel-status {
+    display: none;
+  }
